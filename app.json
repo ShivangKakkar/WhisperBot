@@ -1,0 +1,51 @@
+{
+  "name": "Whisper Bot",
+  "description": "Telegram bot to send whispers",
+  "logo": "https://telegra.ph/file/33af12f457b16532e1383.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ],
+  "repository": "https://github.com/StarkBotsIndustries/WhisperBot",
+  "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Obtain a Telegram bot token by contacting @BotFather",
+      "required": true,
+      "value": ""
+    }
+  }
+}
