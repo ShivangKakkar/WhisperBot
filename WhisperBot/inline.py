@@ -1,3 +1,4 @@
+import ast
 import json
 from pyrogram import Client
 from pyrogram.types import (
@@ -122,6 +123,10 @@ async def answer(bot: Client, query):
         )
     elif len(query_list) >= 2:
         mentioned_user = query_list[-1]
+        try:
+            mentioned_user = ast.literal_eval(mentioned_user)
+        except (ValueError, SyntaxError):
+            pass
         if isinstance(mentioned_user, str) and not mentioned_user.startswith("@"):
             await query.answer(
                 main,
