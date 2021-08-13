@@ -128,8 +128,10 @@ async def answer(bot: Client, query):
         except (ValueError, SyntaxError):
             pass
         if isinstance(mentioned_user, str) and not mentioned_user.startswith("@"):
+            sender = query.from_user.id
+            results = await previous_target(sender)
             await query.answer(
-                main,
+                results,
                 switch_pm_text="🔒 Learn How to send Whispers",
                 switch_pm_parameter="start"
             )
