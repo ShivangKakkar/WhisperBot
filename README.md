@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://www.github.com/StarkBotsIndustries/WhisperBot"><img src="https://telegra.ph/file/33af12f457b16532e1383.jpg" width="5000"></a></p>
 
-Telegram bot for Urban Dictionary.
+Telegram bot for Whisper Message.
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
@@ -67,7 +67,7 @@ Telegram bot for Urban Dictionary.
 
 ## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/StarkBots/UrbanDictionaryBot.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/WhisperBot.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/contributors/)
 
 > Contributions are heartily accepted.
 
