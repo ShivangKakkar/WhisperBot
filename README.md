@@ -67,7 +67,7 @@ Telegram bot for Urban Dictionary.
 
 ## Contributing
 
-[![GitHub contributors](https://img.shields.io/github/contributors/StarkBots/UrbanDictionaryBot.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/WhisperBot.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/contributors/)
 
 > Contributions are heartily accepted.
 
