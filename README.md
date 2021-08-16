@@ -58,7 +58,7 @@ Telegram bot for Whisper Message.
 
 ## Stats
 
-[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/WhisperBot.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/StarkBotsIndustries/WhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=2592000)](https://github.com/StarkBotsIndustries/WhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/WhisperBot.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/StarkBotsIndustries/WhisperBot/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/WhisperBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/WhisperBot.svg?style=social&label=Star&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/WhisperBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/StarkBotsIndustries/WhisperBot/watchers/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StarkBotsIndustries/WhisperBot/graphs/commit-activity)
 
 ## License
