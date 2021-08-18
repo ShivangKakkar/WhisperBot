@@ -18,6 +18,9 @@ Telegram bot for Whisper Message.
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
 3. After deploying is complete, tap on "Manage App"
 4. Check the logs to see if your bot is ready!
+5) **IMPORTANT** : You need to do two things on [@BotFather](https://t.me/BotFather).
+   1) Turn on Inline Mode in your bot settings.
+   2) Now go back to settings, Tap on `Inline Feedback` and then on `100%` (without this your bot is nothing.)
 
 ### Local Deploying
 
