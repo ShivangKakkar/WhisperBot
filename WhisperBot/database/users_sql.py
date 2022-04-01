@@ -1,11 +1,11 @@
-from sqlalchemy import Column, Integer, JSON
+from sqlalchemy import Column, BigInteger, JSON
 from WhisperBot.database import BASE, SESSION
 
 
 class Users(BASE):
     __tablename__ = "users"
     __table_args__ = {'extend_existing': True}
-    user_id = Column(Integer, primary_key=True)
+    user_id = Column(BigInteger, primary_key=True)
     target_user = Column(JSON)
 
     def __init__(self, user_id, target_user=None):
