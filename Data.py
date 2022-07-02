@@ -31,30 +31,28 @@ By @StarkBots
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Arcane_music_bot")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/ALONE_MUSIC_ADD_ICT")],
     ]
 
     # Help Message
     HELP = """
 Just type the message in below format in any chat.
 
-`@WhisperStarkBot your_message friend_username/id`
+`@WhisperAloneBot your_message friend_username/id`
     """
 
     # About Message
     ABOUT = """
 **About This Bot** 
 
-Bot created by @StarkBots
+Bot created by @i_m_pr0_king
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/WhisperBot)
-
-Inspired By : nnbbot
+more bot : [₳Ɽ₵₳₦Ɇ] (http://t.me/arcane_ro_bot)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : @i_m_pr0_king
     """
